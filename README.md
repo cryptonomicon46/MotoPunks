@@ -25,5 +25,3 @@ Winner gets all the amount
  MotoGP
  Moto2
  WSBK
-
- Test1
